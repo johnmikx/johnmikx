@@ -15,7 +15,6 @@
 
 <!-- Tech Stack Badges -->
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-3.12-blue?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Data_Science-FF5733?style=for-the-badge&logo=jupyter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Machine_Learning-6E0D25?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-FF9A00?style=for-the-badge&logo=openai&logoColor=white"/>
