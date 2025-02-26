@@ -31,7 +31,7 @@
 | Category              | Technologies/Tools |
 |----------------------|--------------------------------------------------------------|
 | **Programming**      | ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white) |
-| **Learning**     | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white) |
+| **Libraries**     | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white) |
 | **Tools & Platforms**| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) |
 | **Version Control**  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
 
