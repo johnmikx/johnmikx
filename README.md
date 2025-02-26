@@ -59,10 +59,10 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <p>🚀 Here’s a dynamic look at my GitHub activity:</p>  
-  <img src="https://github-readme-stats.vercel.app/api?username=johnmikx&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="500" />
+  <p>🚀 Here's a dynamic look at my GitHub activity:</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=johnmikx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="500" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmikx&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmikx&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" width="350" />
 </div>
 
 ---
