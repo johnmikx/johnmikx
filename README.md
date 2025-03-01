@@ -1,4 +1,4 @@
-# Hi, I'm John Mike Asuncion (Mike) 👋
+# Hi! I'm John Mike Asuncion (Mike) 👋
 <div align="center">
   <img src="https://images.saymedia-content.com/.image/t_share/MTczOTM5NzMzODQyMzcxNjQ4/guts-a-berserk-character-analysis.jpg" 
        alt="Profile Avatar" 
@@ -62,6 +62,8 @@
   <p>🚀 Here's a dynamic look at my GitHub activity:</p>  
   <img src="https://github-readme-stats.vercel.app/api?username=johnmikx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="500" />
   <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnmikx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmikx&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" width="350" />
 </div>
 
@@ -88,7 +90,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: February 26, 2025</i></p>
+  <p><i>Last updated: March 1, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
