@@ -82,7 +82,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
 ## 🌟 Featured Repositories
 | Repository | Description | Technologies |
 |------------|-------------|--------------|
-| [data-viz-python-proj](https://github.com/johnmikx/data-viz-python-proj) | Data visualization project using Python | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white) |
+| [data-salaries-2020-2024-level-1](https://github.com/johnmikx/data-salaries-2020-2024-level-1) | Explores tech salary trends (My first ever data analysis project.) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white) |
 
 ---
 
@@ -98,4 +98,3 @@ I'm always open to collaborations, learning opportunities, and connecting with f
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=johnmikx&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
-
