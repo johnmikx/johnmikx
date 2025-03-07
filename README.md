@@ -72,7 +72,8 @@
 ## 📫 Connect With Me
 I'm always open to collaborations, learning opportunities, and connecting with fellow tech enthusiasts! Reach out via:  
 - 📧 Email: [johnmikeasuncion17@gmail.com](mailto:johnmikeasuncion17@gmail.com)
-- 🔗 LinkedIn: [Mike's LinkedIn Profile](https://www.linkedin.com/in/john-mike-asuncion-a44232320/)  
+- 🔗 LinkedIn: [Mike's LinkedIn Profile](https://www.linkedin.com/in/john-mike-asuncion-a44232320/)
+- 🔗 GitHub: [Mike's GitHub Profile](https://github.com/johnmikx)
 - 💼 DataCamp: [Mike's Portfolio](https://www.datacamp.com/portfolio/johnmikeasuncion17)
 - 🔗 Facebook: [Mike's Facebook Profile](https://www.facebook.com/mikekaizennn)
 
@@ -90,7 +91,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: March 1, 2025</i></p>
+  <p><i>Last updated: March 7, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
