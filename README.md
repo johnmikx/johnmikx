@@ -16,6 +16,7 @@
 <!-- Tech Stack Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/Data_Science-FF5733?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Engineering-ADD8E6?style=for-the-badge&logo=autodesk&logoColor=black"/>
   <img src="https://img.shields.io/badge/Machine_Learning-6E0D25?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/AI-FF9A00?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
@@ -91,7 +92,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: March 7, 2025</i></p>
+  <p><i>Last updated: March 16, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
