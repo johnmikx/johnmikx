@@ -24,7 +24,7 @@
 
 ## 🥷 About Me
 - **Pronouns**: He/Him  
-- **Interests**: Data Science, Machine Learning, and AI
+- **Interests**: Data Science, Engineering, Machine Learning, and AI
 - **Status**: Currently building my foundation in my desired fields  
 - **Goal**: Improve `1%` every single day 🌍
 
