@@ -1,4 +1,6 @@
-# Hi! I'm John Mike Asuncion (Mike) 👋
+<h1 align="center">Hi! 👋 I'm Mike (Kaizen)
+</h1>
+
 <div align="center">
   <img src="https://images.saymedia-content.com/.image/t_share/MTczOTM5NzMzODQyMzcxNjQ4/guts-a-berserk-character-analysis.jpg" 
        alt="Profile Avatar" 
@@ -92,7 +94,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: March 16, 2025</i></p>
+  <p><i>Last updated: March 19, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
