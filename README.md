@@ -46,12 +46,11 @@
 ## 🛠️ Skills
 
 | Category              | Technologies/Tools |
-|----------------------|--------------------------------------------------------------|
-| **Programming**      | ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white) |
-| **Libraries**     | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white) |
-| **Tools & Platforms**| ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) |
-| **Version Control**  | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
-
+|----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Programming**       | ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white) |
+| **Libraries**         | ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
+| **Tools & Platforms** | ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white) ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) |
+| **Version Control**   | ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white) |
 
 ---
 
@@ -83,9 +82,11 @@ I'm always open to collaborations, learning opportunities, and connecting with f
 ---
 
 ## 🌟 Featured Repositories
+
 | Repository | Description | Technologies |
 |------------|-------------|--------------|
-| [data-salaries-2020-2024-level-1](https://github.com/johnmikx/data-salaries-2020-2024-level-1) | Explores tech salary trends (My first ever data analysis project.) | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white) |
+| [datacamp_mini_projects](https://github.com/johnmikx/datacamp_mini_projects) | Collection of mini DataCamp projects. | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
+| [physics_for_engineers_diagrams](https://github.com/johnmikx/physics_for_engineers_diagrams) | Diagrams and visualizations to support learning core concepts in Physics for Engineers. | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) |
 
 ---
 
@@ -94,7 +95,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: March 19, 2025</i></p>
+  <p><i>Last updated: April 7, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
