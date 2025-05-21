@@ -95,7 +95,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: April 7, 2025</i></p>
+  <p><i>Last updated: May 21, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
