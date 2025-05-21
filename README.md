@@ -33,10 +33,10 @@
 
 ---
 
-<div align="center">
+<blockquote>
 <h4><i>"When we are no longer able to change a situation, we are challenged to change ourselves."</i></h4>
 <p>—Viktor Frankl</p>
-</div>
+</blockquote>
 
 ---
 
