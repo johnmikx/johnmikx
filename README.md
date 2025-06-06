@@ -39,7 +39,7 @@
 </blockquote>
 
 <blockquote>
-<h4><i>"I have an utmost confidence in myself, and I know I'm gonna do great things in the <strong>field of AI<strong/>."</i></h4>
+<h4><i>"I have an utmost confidence in myself, and I know I'm gonna do great things in the field of AI."</i></h4>
 <p>—Oljen Gurelli</p>
 </blockquote>
 
@@ -83,15 +83,6 @@ I'm always open to collaborations, learning opportunities, and connecting with f
 - 🔗 GitHub: [Mike's GitHub Profile](https://github.com/johnmikx)
 - 💼 DataCamp: [Mike's Portfolio](https://www.datacamp.com/portfolio/johnmikeasuncion17)
 - 🔗 Facebook: [Mike's Facebook Profile](https://www.facebook.com/mikekaizennn)
-
----
-
-## 🌟 Featured Repositories
-
-| Repository | Description | Technologies |
-|------------|-------------|--------------|
-| [datacamp_mini_projects](https://github.com/johnmikx/datacamp_mini_projects) | Collection of mini DataCamp projects. | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-008080?logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white) |
-| [physics_for_engineers_diagrams](https://github.com/johnmikx/physics_for_engineers_diagrams) | Diagrams and visualizations to support learning core concepts in Physics for Engineers. | ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?logo=googlecolab&logoColor=white) ![Python](https://img.shields.io/badge/Python-3.12-blue) ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-005F9E?logo=python&logoColor=white) |
 
 ---
 
