@@ -38,6 +38,11 @@
 <p>—Viktor Frankl</p>
 </blockquote>
 
+<blockquote>
+<h4><i>"I have an utmost confidence in myself, and I know I'm gonna do great things in the <strong>field of AI<strong/>."</i></h4>
+<p>—Oljen Gurelli</p>
+</blockquote>
+
 ---
 
 <!-- GitHub Activity Graph -->
@@ -95,7 +100,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: May 21, 2025</i></p>
+  <p><i>Last updated: June 6, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
