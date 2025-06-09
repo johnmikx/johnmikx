@@ -1,9 +1,10 @@
+<!-- Language: HTML/Markdown -->
 <h1 align="center">Hi! 👋 I'm Mike (Kaizen)
 </h1>
 
 <div align="center">
   <img src="https://images.saymedia-content.com/.image/t_share/MTczOTM5NzMzODQyMzcxNjQ4/guts-a-berserk-character-analysis.jpg" 
-       alt="Profile Avatar" 
+       alt="Profile Avatar - Guts from Berserk Anime" 
        width="250"
        onerror="this.style.display='none';">
   <h2>Computer Engineering Student (Freshman)</h2>
