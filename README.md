@@ -46,7 +46,8 @@
 ---
 
 <!-- GitHub Activity Graph -->
-[![Mike's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnmikx&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mike's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnmikx&hide_border=true&area=true&line=00ff00&point=00ff00&area_color=ccffcc&bg_color=000000&color=ffffff&title_color=00ff00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
@@ -77,7 +78,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: June 6, 2025</i></p>
+  <p><i>Last updated: June 9, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
