@@ -46,7 +46,7 @@
 ---
 
 <!-- GitHub Activity Graph -->
-[![Mike's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnmikx&hide_border=true&area=true&line=00ff00&point=00ff00&area_color=ccffcc&bg_color=000000&color=ffffff&title_color=00ff00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Mike's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnmikx&hide_border=true&area=true&line=808080&point=00ff00&area_color=ccffcc&bg_color=0D1117&color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ---
