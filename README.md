@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/AI-FF9A00?style=for-the-badge&logo=openai&logoColor=white"/>
 </div>
 
----
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 ## 🥷 About Me
 - **Pronouns**: He/Him  
@@ -32,7 +32,7 @@
 - **Status**: Currently building my foundation in my desired fields  
 - **Goal**: Improve `1%` every single day 🌍
 
----
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 <blockquote>
 <h4><i>"When we are no longer able to change a situation, we are challenged to change ourselves."</i></h4>
@@ -44,13 +44,13 @@
 <p>—Oljen Gurelli</p>
 </blockquote>
 
----
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 <!-- GitHub Activity Graph -->
 [![Mike's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=johnmikx&hide_border=true&area=true&line=808080&point=00ff00&area_color=ccffcc&bg_color=0D1117&color=58A6FF)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
----
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 ## 📊 GitHub Stats
 <div align="center">
@@ -62,7 +62,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmikx&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" width="350" />
 </div>
 
----
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 ## 📫 Connect With Me
 I'm always open to collaborations, learning opportunities, and connecting with fellow tech enthusiasts! Reach out via:  
@@ -72,14 +72,14 @@ I'm always open to collaborations, learning opportunities, and connecting with f
 - 💼 DataCamp: [Mike's Portfolio](https://www.datacamp.com/portfolio/johnmikeasuncion17)
 - 🔗 Facebook: [Mike's Facebook Profile](https://www.facebook.com/mikekaizennn)
 
----
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 <div align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/12/827/723/kentaro-miura-berserk-guts-wallpaper-preview.jpg" 
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: June 9, 2025</i></p>
+  <p><i>Last updated: June 16, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
