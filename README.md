@@ -57,13 +57,23 @@
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 ## 📊 GitHub Stats
+
 <div align="center">
-  <p>🚀 Here's a dynamic look at my GitHub activity:</p>  
-  <img src="https://github-readme-stats.vercel.app/api?username=johnmikx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="500" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnmikx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="500" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmikx&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" width="350" />
+  <p>🚀 Navigating the stars of my GitHub universe, here’s the live feed:</p>  
+  
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=johnmikx&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800" alt="GitHub Stats" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=johnmikx&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=johnmikx&layout=compact&theme=radical&hide_border=true&count_private=true&cache_seconds=1800" alt="Top Languages" width="300" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
@@ -83,7 +93,7 @@ I'm always open to collaborations, learning opportunities, and connecting with f
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: June 16, 2025</i></p>
+  <p><i>Last updated: July 13, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
