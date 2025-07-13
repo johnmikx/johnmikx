@@ -1,4 +1,3 @@
-<!-- Language: HTML/Markdown -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient"/>
 
 
@@ -30,13 +29,19 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
-## 🥷 About Me
-- **Pronouns**: He/Him  
-- **Interests**: Data Science, Engineering, Machine Learning, and AI
-- **Status**: Currently building my foundation in my desired fields  
-- **Goal**: Improve `1%` every single day 🌍
+## 🥷 Who Am I?
+
+- 🧭 **Pronouns**: He/Him  
+- 🛠 **Status**: Building strong fundamentals in further maths, economics, philosophy, programming, and AI  
+- 🌱 **Mindset**: ***Kaizen*** — continuous, never-ending improvement  
+- 🧑‍🚀 **Goal**: To improve `1%` every single day and become a force in the ***AI frontier***
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+
+<blockquote>
+<h4><i>"A man is not measured by how many times he falls, but how many times he rises."</i></h4>
+<p>—David Kam</p>
+</blockquote>
 
 <blockquote>
 <h4><i>"When we are no longer able to change a situation, we are challenged to change ourselves."</i></h4>
@@ -56,10 +61,10 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
-## 📊 GitHub Stats
+## 🌱 GitHub Stats
 
 <div align="center">
-  <p>🚀 Navigating the stars of my GitHub universe, here’s the live feed:</p>  
+  <p>🚀 Navigating the stars of my GitHub universe 🌌, here’s the live feed:</p>  
   
   <table>
     <tr>
@@ -78,13 +83,32 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
-## 📫 Connect With Me
-I'm always open to collaborations, learning opportunities, and connecting with fellow tech enthusiasts! Reach out via:  
-- 📧 Email: [johnmikeasuncion17@gmail.com](mailto:johnmikeasuncion17@gmail.com)
-- 🔗 LinkedIn: [Mike's LinkedIn Profile](https://www.linkedin.com/in/john-mike-asuncion-a44232320/)
-- 🔗 GitHub: [Mike's GitHub Profile](https://github.com/johnmikx)
-- 💼 DataCamp: [Mike's Portfolio](https://www.datacamp.com/portfolio/johnmikeasuncion17)
-- 🔗 Facebook: [Mike's Facebook Profile](https://www.facebook.com/mikekaizennn)
+<!-- Animated Typing Header -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=🛰️+Incoming+Transmission+Detected...;📡+Connecting+to+Mike's+Galactic+Hub;" />
+</p>
+
+## 🛰️ Incoming Transmission
+
+👋 Greetings, traveler. You've reached **Mike's Galactic Hub**, an interstellar outpost for coders, collaborators, and cosmic thinkers.
+
+If you're seeking to build stellar solutions, explore new frontiers in tech, or simply vibe under the stars, you can transmit your message via the following channels:
+
+- 📡 **StarMail**: [johnmikeasuncion17@gmail.com](mailto:johnmikeasuncion17@gmail.com)  
+- 🛸 **LinkedIn Command Center**: [Visit HQ](https://www.linkedin.com/in/john-mike-asuncion-a44232320/)  
+- 🌠 **GitHub Nebula**: [My Code Galaxy](https://github.com/johnmikx)  
+- 🌌 **DataCamp Archives**: [View Records](https://www.datacamp.com/portfolio/johnmikeasuncion17)  
+- 🛰️ **Social Orbit**: [Facebook Terminal](https://www.facebook.com/mikekaizennn)
+
+<details>
+  <summary>👨‍🚀 <strong>Classified Coordinates <i>(Click to Reveal)</i></strong></summary>
+  <br/>
+  🧬 You are the universe expressing itself as a coder for a little while.  
+  Let’s build something timeless, one commit at a time. 🌌  
+  Message me when you're ready to align the <strong><i>stars</i></strong>.
+</details>
+
+See you in the void 🚀
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
