@@ -29,7 +29,7 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
-## 🥷 Who Am I?
+## 🥷 **Who Am I?**
 
 - 🧭 **Pronouns**: He/Him  
 - 🛠 **Status**: Building strong fundamentals in further maths, economics, philosophy, programming, and AI  
@@ -61,7 +61,7 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
-## 🌱 GitHub Stats
+## 🌱 **GitHub Stats**
 
 <div align="center">
   <p>🚀 Navigating the stars of my GitHub universe 🌌, here’s the live feed:</p>  
@@ -115,7 +115,7 @@ See you in the void 🚀
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: July 14, 2025</i></p>
+  <p><i>Last updated: July 16, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
