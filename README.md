@@ -10,7 +10,7 @@
        alt="Profile Avatar - Guts from Berserk Anime" 
        width="250"
        onerror="this.style.display='none';">
-  <h2>Computer Engineering Student (Freshman)</h2>
+  <h2>Computer Engineering Student (Sophomore)</h2>
   <p><i>Polytechnic University of the Philippines</i></p>
   
   <!-- Typing Animation with Custom Colors -->
