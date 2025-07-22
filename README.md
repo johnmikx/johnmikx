@@ -115,7 +115,7 @@ See you in the void 🚀
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: July 16, 2025</i></p>
+  <p><i>Last updated: July 22, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
