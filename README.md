@@ -5,6 +5,10 @@
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
+<img align="left" alt="Coding" width="200" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
+
+<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
+
 <div align="center">
   <img src="https://images.saymedia-content.com/.image/t_share/MTczOTM5NzMzODQyMzcxNjQ4/guts-a-berserk-character-analysis.jpg" 
        alt="Profile Avatar - Guts from Berserk Anime" 
@@ -120,7 +124,7 @@ See you in the void 🚀
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: July 23, 2025</i></p>
+  <p><i>Last updated: July 25, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
