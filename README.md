@@ -1,26 +1,16 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient"/>
 
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:8871e5,100:b678c4&text=yo!%20i%20am%20mike%20:)&stroke=B4CCE7&strokeWidth=2&rotate=-3&animation=twinkling"/>
-
-<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
-
-<img align="left" alt="Coding" width="200" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
-
-<img align="right" alt="Coding" width="200" src="https://user-images.githubusercontent.com/58109796/233058941-9dd6c50a-a5ea-45fd-b788-c3bb8e00bffe.gif">
-
 <div align="center">
-  <img src="https://images.saymedia-content.com/.image/t_share/MTczOTM5NzMzODQyMzcxNjQ4/guts-a-berserk-character-analysis.jpg" 
-       alt="Profile Avatar - Guts from Berserk Anime" 
-       width="250"
-       onerror="this.style.display='none';">
-  <h2>Computer Engineering Student (Sophomore)</h2>
-  <p><i>Polytechnic University of the Philippines</i></p>
-  
-  <!-- Typing Animation with Custom Colors -->
-  <a href="https://git.io/typing-svg">
+    <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=98FB98&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Engineering+Lemniscate;Machine+Learning+Explorer;AI+Learner;Improving+1%25+Daily" alt="Typing SVG" />
   </a>
+</div>
+
+![GIF GitHub Profile for Mike](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f)
+
+<div align="center">
+  <h2>Computer Engineering Student [Sophomore]</h2>
+  <p><i><strong>Polytechnic University of the Philippines</strong></i></p>
 </div>
 
 <!-- Tech Stack Badges -->
@@ -124,7 +114,7 @@ See you in the void 🚀
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: July 25, 2025</i></p>
+  <p><i>Last updated: August 10, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
