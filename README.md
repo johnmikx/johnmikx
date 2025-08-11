@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient"/>
-
 <div align="center">
     <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=98FB98&center=true&vCenter=true&width=435&lines=Data+Science+Enthusiast;Engineering+Lemniscate;Machine+Learning+Explorer;AI+Learner;Improving+1%25+Daily" alt="Typing SVG" />
@@ -114,7 +112,7 @@ See you in the void 🚀
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: August 10, 2025</i></p>
+  <p><i>Last updated: August 11, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
