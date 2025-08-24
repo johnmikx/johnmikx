@@ -117,10 +117,14 @@ See you in the void 🚀
     <img src="https://user-images.githubusercontent.com/74038190/215768933-8904f263-b421-4fd1-a5b0-83c1f07df757.png" width="200" />
     <img src="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png" width="200" />
     <img src="https://user-images.githubusercontent.com/74038190/214373791-293fa4f8-9ebd-4de5-9cb5-56033dc3d6ce.jpg" width="200" />
-    <p><i>Last updated: August 25, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
+
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="120" />
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=johnmikx&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
