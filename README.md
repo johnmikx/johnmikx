@@ -82,7 +82,7 @@
 
 <!-- Animated Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=500&lines=🛰️+Incoming+Transmission+Detected...;📡+Connecting+to+Mike's+Galactic+Hub;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&pause=1200&color=FFCCCB&center=true&vCenter=true&width=500&lines=🛰️+Incoming+Transmission+Detected...;📡+Connecting+to+Mike's+Galactic+Hub;" />
 </p>
 
 👋 Greetings, traveler. You've reached **Mike's Galactic Hub**, an interstellar outpost for coders, collaborators, and cosmic thinkers.
@@ -107,12 +107,16 @@ See you in the void 🚀
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
+![Midnight Vibes Aesthetics](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
+
+<img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
+
 <div align="center">
   <img src="https://c4.wallpaperflare.com/wallpaper/12/827/723/kentaro-miura-berserk-guts-wallpaper-preview.jpg" 
        alt="Footer Image" 
        width="250"
        onerror="this.style.display='none';">
-  <p><i>Last updated: August 11, 2025</i></p>
+  <p><i>Last updated: August 25, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
