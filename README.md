@@ -112,11 +112,12 @@ See you in the void 🚀
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
 
 <div align="center">
-  <img src="https://c4.wallpaperflare.com/wallpaper/12/827/723/kentaro-miura-berserk-guts-wallpaper-preview.jpg" 
-       alt="Footer Image" 
-       width="250"
-       onerror="this.style.display='none';">
-  <p><i>Last updated: August 25, 2025</i></p>
+    <img src="https://user-images.githubusercontent.com/74038190/212907120-c72ded50-c4ef-4d96-8a23-e4b69757a907.jpg" width="200" />
+    <img src="https://user-images.githubusercontent.com/74038190/215768924-1014d363-b416-4080-8c74-808583e81735.png" width="200" />
+    <img src="https://user-images.githubusercontent.com/74038190/215768933-8904f263-b421-4fd1-a5b0-83c1f07df757.png" width="200" />
+    <img src="https://user-images.githubusercontent.com/74038190/216318921-21620ac8-e31f-42b0-b7dd-80ee2f424c2f.png" width="200" />
+    <img src="https://user-images.githubusercontent.com/74038190/214373791-293fa4f8-9ebd-4de5-9cb5-56033dc3d6ce.jpg" width="200" />
+    <p><i>Last updated: August 25, 2025</i></p>
 </div>
 
 <!-- Visitor Count -->
