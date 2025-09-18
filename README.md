@@ -24,8 +24,8 @@
 ## 🥷 **Who Am I?**
 
 - 🧭 **Pronouns**: He/Him  
-- 🛠 **Status**: Building strong fundamentals in further maths, economics, philosophy, programming, and AI  
-- 🌱 **Mindset**: ***Kaizen*** — continuous, never-ending improvement  
+- 🛠 **Status**: Building strong fundamentals in Further Maths, Quantitative Analysis, Finance, Economics, Machine Learning, and Artificial Intelligence  
+- 🌱 **Mindset**: ***Kaizen*** —> continuous, never-ending improvement  
 - 🧑‍🚀 **Goal**: To improve `1%` every single day and become a force in the ***AI frontier***
 
 <img width="100%" height="50" src="https://i.imgur.com/dBaSKWF.gif"/>
