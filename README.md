@@ -6,11 +6,6 @@
 
 ![GIF GitHub Profile for Mike](https://github.com/user-attachments/assets/a4e0e85c-67b7-4b95-beb5-f367a598d88f)
 
-<div align="center">
-  <h2>Computer Engineering Student [Sophomore]</h2>
-  <p><i><strong>Polytechnic University of the Philippines</strong></i></p>
-</div>
-
 <!-- Tech Stack Badges -->
 <div align="center">
   <img src="https://img.shields.io/badge/Data_Science-FF5733?style=for-the-badge&logo=jupyter&logoColor=white"/>
