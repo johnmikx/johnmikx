@@ -19,7 +19,7 @@
 ## 🥷 **Who Am I?**
 
 - 🧭 **Pronouns**: He/Him  
-- 🛠 **Status**: Building strong fundamentals in Further Maths, Quantitative Analysis, Finance, Economics, Machine Learning, and Artificial Intelligence  
+- 🛠 **Status**: Building strong fundamentals in Further Maths, Quantitative Analysis, Finance, Economics, GTM Engineering, and ML/AI  
 - 🌱 **Mindset**: ***Kaizen*** —> continuous, never-ending improvement  
 - 🧑‍🚀 **Goal**: To improve `1%` every single day and become a force in the ***AI frontier***
 
